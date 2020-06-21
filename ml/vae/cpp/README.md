@@ -19,3 +19,7 @@ Used [Basic VAE Example from pytorch/examples](https://github.com/pytorch/exampl
 - libtorch from [official pytorch downloads](https://pytorch.org/get-started/locally/) didn't work for me.
 - clone source from [pytorch repository](https://github.com/pytorch/pytorch) and run ```setup.py``` with ```build``` option.
 - use ```include``` and ```lib``` from the build as your libtorch. 
+
+## Reference
+
+- [libtorch example from [TonyzBi/libtorch-mnist]](https://github.com/TonyzBi/libtorch-mnist)
